@@ -194,7 +194,11 @@ img {
 }
 
 /* Show tooltip card */
-.card__article:hover .card__tooltip {
+/* .card__article:hover .card__tooltip {
+	
+} */
+
+.show-tooltip {
 	opacity: 1;
 	pointer-events: initial;
 	bottom: 4rem;
