@@ -188,10 +188,10 @@ img {
 }
 
 /* Scale profile image */
-.card__article:hover .card__profile {
+/* .card__article:hover .card__profile {
 	transform: scale(0.8);
 	opacity: 0.7;
-}
+} */
 
 /* Show tooltip card */
 /* .card__article:hover .card__tooltip {
@@ -202,6 +202,11 @@ img {
 	opacity: 1;
 	pointer-events: initial;
 	bottom: 4rem;
+}
+
+.fade-profile {
+	transform: scale(0.8);
+	opacity: 0.7;
 }
 
 /*=============== BREAKPOINTS ===============*/
